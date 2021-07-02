@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Data Science Community
 - 💬 Ask me about Anything
 - 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/mdnadeemanwards2023) 
-- 😄 Pronouns: ...He/Him
+- 😄 Pronouns: ...He 
 - ⚡ Fun fact: ... I'm Self learner
 -->
