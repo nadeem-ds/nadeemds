@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on
+- 🔭 I’m currently working on Portfolio Project
 - 🌱 I’m currently learning ... React & javascript
 - 👯 I’m looking to collaborate on ... Data Science Community
 - 🤔 I’m looking for help with ... Data Science Community
